@@ -4,5 +4,5 @@ A YouTube video summarization pipeline that converts video to text using OpenAI 
 It also compares the latency of each model and shows their final summaries.
 
 # Files
-- `VIDEO SUMMARIZATION.ipynb` – Full pipeline: download, transcription, and summarization with all three models.  
-- `results.ipynb` – Compares latencies and displays the final summaries of the models.
+- `Video summarization.ipynb` – Full pipeline: download, transcription, and summarization with all three models.  
+- `result video summarization.ipynb` – Compares latencies and displays the final summaries of the models.
